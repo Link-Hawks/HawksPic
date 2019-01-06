@@ -1,4 +1,4 @@
-# hawkspic
+# Hawks Pic
 
 > Sistema de gerenciamento de fotos com Vue.js
 
